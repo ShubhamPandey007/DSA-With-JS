@@ -12,7 +12,7 @@ function countString(str, letter){
     return count;
 }
 const prompt = require('prompt-sync')();
-const string = prompt('Enter a string')
+const string = prompt('Enter a string:')
 const letterToCheck = prompt("Enter a letter to check:")
 
 //passting parameters and calling the function
