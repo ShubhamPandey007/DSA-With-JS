@@ -31,3 +31,4 @@ const array = [1, 2, 3];
 
 // calling the function
 addElement(array);
+
