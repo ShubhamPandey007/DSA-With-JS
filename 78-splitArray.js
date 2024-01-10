@@ -14,3 +14,19 @@ function splitIntoChunk(arr, chunk) {
 }
 
 splitIntoChunk(array, chunk);
+
+
+
+// program to split array into smaller chunks
+
+function splitInto(arr, chunk) {
+    
+    while(arr.length > 0) {
+
+    let temArray1;
+    tempArray1 = arr.splice(0, chunk);
+    console.log(tempArray1);
+
+}
+}
+splitInto(array, chunk);
